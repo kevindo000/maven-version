@@ -1,4 +1,4 @@
-# project-management
+# project-management software
 Assignment for Software Design
 
 Made by Erick Flores, Kevin Do, Ganondorf Jallida, Timothy Chandler
